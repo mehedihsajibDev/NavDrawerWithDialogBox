@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NavDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">StopWatch</string>
+    <string name="menu_gallery">Timer</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="systech">Experience, ingenuity and an unparalleled strength
+        in client communica  management have enabled SDL, with the ability
+        and reputation for guaranteed performance.tion and project
+        Systech Digital Limited. has earned vast popularity, having the
+        focus on the Enterprise Application, Digital Content Development,
+        Web Development and Mobile Application Development. SDL, in its 14 Years of Experience,
+        has gathered stability with proven success in delivering cost-effective but quality service
+        to our clients in Bangladesh,UK,Canada,USA,Netherlands,Germany,Denmark,andJapan.
+        Experience, ingenuity and an unparalleled strength
+        in client communica  management have enabled SDL, with the ability
+        and reputation for guaranteed performance.tion and project
+        Systech Digital Limited. has earned vast popularity, having the
+        focus on the Enterprise Application, Digital Content Development,
+        Web Development and Mobile Application Development. SDL, in its 14 Years of Experience,
+        has gathered stability with proven success in delivering cost-effective but quality service
+        to our clients in Bangladesh,UK,Canada,USA,Netherlands,Germany,Denmark.
+ </string>
+</resources>
